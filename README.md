@@ -1,6 +1,6 @@
 # c14190152_02
 
-A new Flutter project.
+Sorry ce waktu ngepush lupa di flutter clean hehe, tapi yang di .rar udah di clean
 
 ## Getting Started
 
